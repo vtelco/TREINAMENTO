@@ -20,4 +20,6 @@ O OcNOS (Open Compute Network Operating System) é um sistema operacional de red
 
 * O OcNOS é um sistema operacional de rede modular e multitarefa, com recursos de integração rígidos em hardware de commodities. Este design permite implantações escalonadas e críticas de desempenho.
 
+As configurações serão orientadas pela release [6.5.2](https://www.ipinfusion.com/documentation/ocnos-product-documentation/service-providers/release-6-5/)
+
 Para consulta segue a página do [OcNOS](https://github.com/IPInfusion/OcNOS) no github.
